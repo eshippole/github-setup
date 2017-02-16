@@ -2,22 +2,21 @@ Please answer the following questions:
 
 
 1. Who are you? :) (What is your full name?)
-Enrico Shippole
+
 
 2. What is your GitHub username?
-eshippole
+
 
 3. Where are you from (your hometown)?
-Boston
+
 
 4. What is your favorite local restaurant?
-Fi'Lia
+
 
 5. What is the last good book you read (title, author)?
-The Art of War, Sun Tzu
+
 
 6. Which song is in heavy rotation on your MP3 player/iPod/iPhone/stream?
-Johnny Cash - God's Gonna Cut You Down
+
 
 7. If you were to build a web site for fun, what would it be about?
-Cigars
